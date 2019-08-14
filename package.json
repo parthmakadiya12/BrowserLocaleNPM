@@ -1,0 +1,14 @@
+{
+  "name": "detect-locale",
+  "version": "1.0.0",
+  "description": "The essential job of this package is to detect the language of the browser.",
+  "main": "index.js",
+  "keywords": [
+    "browser",
+    "locale",
+    "detect",
+    "browser"
+  ],
+  "author": "Parth Makadiya <parthmakadiya007@gmail.com>",
+  "license": "ISC"
+}
