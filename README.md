@@ -1,11 +1,11 @@
-# detect-locale
+## detect-locale
 - This application is ment to provide you the browser's language with minimal code with zero dependencies.Some packages uses accept-language header to detect language that cost XHR to server but here we use `navigator` to get the language.The main thing is that it supports all possible browsers.
 
-# How to Install ?
+## How to Install ?
 - ``` npm install detect-locale```
 - ``` yarn add detect-locale ```
 
-# How to use ?
+## How to use ?
 - ES6 way :
     ```
     import { getBrowserLocale,getShortBrowserLocale,getUserLanguages } from "detect-locale";
@@ -21,12 +21,12 @@
     console.log(`User languages prefference : Array : ${locale.getUserLanguages()}`);
     ```
 
-# Browser Suppoer
+## Browser Suppoer
 - Chrome
 - Firefox
 - Opera
+- Edge
 - IE
 - chromium
-- Edge
 - UC
 - Safari
