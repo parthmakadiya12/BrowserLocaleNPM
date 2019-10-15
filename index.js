@@ -18,5 +18,6 @@ function getLocale() {
   const locale = navigator.languages
     ? navigator.languages[0]
     : navigator.language || navigator.userLanguage;
-  return locale;
+
+  return locale || "en";
 }

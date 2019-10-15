@@ -30,3 +30,7 @@
 - chromium
 - UC
 - Safari
+
+#ChangeLog
+- version 2 
+- - In Headless browser(cypress) now we are sending fallback language as english.
