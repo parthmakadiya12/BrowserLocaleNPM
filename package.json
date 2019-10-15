@@ -1,6 +1,6 @@
 {
   "name": "detect-locale",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "The essential job of this package is to detect the language of the browser.",
   "main": "index.js",
   "keywords": [
